@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyListForLab7/1.0.0": {
+        "runtime": {
+          "MyListForLab7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyListForLab7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

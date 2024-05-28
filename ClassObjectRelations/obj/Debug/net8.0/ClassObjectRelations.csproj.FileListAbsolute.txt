@@ -1,0 +1,14 @@
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\bin\Debug\net8.0\ClassObjectRelations.exe
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\bin\Debug\net8.0\ClassObjectRelations.deps.json
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\bin\Debug\net8.0\ClassObjectRelations.runtimeconfig.json
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\bin\Debug\net8.0\ClassObjectRelations.dll
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\bin\Debug\net8.0\ClassObjectRelations.pdb
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.AssemblyInfoInputs.cache
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.AssemblyInfo.cs
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.csproj.CoreCompileInputs.cache
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.dll
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\refint\ClassObjectRelations.dll
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.pdb
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ClassObjectRelations.genruntimeconfig.cache
+C:\Users\frend\RiderProjects\class-object-relations\ClassObjectRelations\obj\Debug\net8.0\ref\ClassObjectRelations.dll

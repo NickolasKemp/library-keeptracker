@@ -1,0 +1,14 @@
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/bin/Debug/net8.0/MyListForLab7
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/bin/Debug/net8.0/MyListForLab7.deps.json
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/bin/Debug/net8.0/MyListForLab7.runtimeconfig.json
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/bin/Debug/net8.0/MyListForLab7.dll
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/bin/Debug/net8.0/MyListForLab7.pdb
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.AssemblyInfoInputs.cache
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.AssemblyInfo.cs
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.csproj.CoreCompileInputs.cache
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.dll
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/refint/MyListForLab7.dll
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.pdb
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/MyListForLab7.genruntimeconfig.cache
+/home/nicktubolyev/RiderProjects/lab7/MyListForLab7/obj/Debug/net8.0/ref/MyListForLab7.dll
